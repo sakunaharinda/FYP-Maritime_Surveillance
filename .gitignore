@@ -61,7 +61,10 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-**/*.pyc
+/UI/*.pyc
+/Center_SMD/src/**/__pycache__
+/Center_SMD/src/__pycache__
+/Center_SMD/src/**/*.pyc
 
 # Flask stuff:
 instance/
