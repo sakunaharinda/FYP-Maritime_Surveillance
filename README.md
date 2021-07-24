@@ -98,6 +98,10 @@ If everything works perfectly, you will see an interface as follows.
 ![UI](https://github.com/sakunaharinda/FYP-Maritime_Surveillance/blob/main/Capture.PNG)
 
 
+## Documentation
+
+All the presentations and documents we created throughout the project are included in the repository. For the critical evaluations such as the Mid Evaluation and the Final Evaluation, presentations are uploaded to the [google drive](https://drive.google.com/drive/folders/1FPPq9mZypzexdHopbiBAeW_aptgW6sPk?usp=sharing).
+
 **Thank you !!**
 
 
