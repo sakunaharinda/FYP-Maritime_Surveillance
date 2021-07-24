@@ -36,7 +36,7 @@ We use the CenterNet as our object detector introduced in this [paper](https://a
 
 To setup, train and test the object detector, use the instructions mentioned in their official [repository](https://github.com/xingyizhou/CenterNet).
 
-If you faced an error regarding DCNv2, follow the instructions below.
+If you face an error regarding DCNv2, follow the instructions below.
 
 1. **Build NMS**
 
