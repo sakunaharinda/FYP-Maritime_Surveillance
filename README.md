@@ -1,5 +1,8 @@
 # OBJECT DETECTION, TRACKING AND SUSPICIOUS ACTIVITY RECOGNITION FOR MARITIME SURVEILLANCE USING THERMAL VISION
 
+> Group Members: </br>
+> Kalana Abeywardena, Sakuna Jayasundara, Sachira Karunasena, Shechem Sumanthiran
+
 ## Introduction
 
 Widespread, constant monitoring during both day and night by the naval security personnel is required to ensure that activities such as the transport of banned substances, unlawful fishing, and human trafficking are prevented. This is a human labor-intensive and monotonous task. Due to the difficult conditions at sea and the repetitive nature of the task, human error could also lead to significant lapses in security.
