@@ -75,7 +75,7 @@ python setup.py build develop
 
 ### Demo
 
-1. Follow the steps to setup CenterNet repository. [Change the repo name to `Centre_SMD` to avoid errors and confusion.]
+1. Follow the steps to setup CenterNet repository. [Change the repo name to `Center_SMD` to avoid errors and confusion.]
 2. Update the files in `CenterNet/src` with the provided files in `Center_SMD/src`
 3. Follow the steps below.
 ```
