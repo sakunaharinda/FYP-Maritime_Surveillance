@@ -7,17 +7,22 @@
 
 <p align='justify'>
 Widespread, constant monitoring during both day and night by the naval security personnel is required to ensure that activities such as the transport of banned substances, unlawful fishing, and human trafficking are prevented. This is a human labor-intensive and monotonous task. Due to the difficult conditions at sea and the repetitive nature of the task, human error could also lead to significant lapses in security. Therefore, the automation of this task is desirable. Through this project, we seek to automate the task of object detection, tracking, and suspicious activity detection. To detect objects in the maritime environment during the day and the night, we capture a live feed using a thermal camera. The images are fed in real-time to an object detection algorithm to detect and localize the objects of interest such as ships, boats, unidentified floating objects, humans, etc. We then track the detected objects over time and identify if suspicious activities are occurring based on the detected and tracked objects. We log and display all detected objects and actions on the user interface developed for this project. 
-
+</p>
+<p align='justify'>
 Thermal imaging is regularly used by naval vessels to monitor and detect objects both in the day and the night. Moving vessels and humans both give off a thermal signature that is easily detectable, especially at night. Thermal imaging is also used in a variety of other applications such as autonomous vehicles, and night-vision in combat situations. As being able to detect objects at night, when most illegal activities take place is of utmost importance, we choose to use thermal imaging to monitor the environment. 
-
+</p>
+<p align='justify'>
 Object detection is the identification and spatial localization of a set of predefined objects in a static image. It is used for a wide variety of applications such as autonomous vehicles, security, and traffic control. In the recent past, deep learning algorithms based on convolutional neural networks (CNN) have shown promising object detection results and has become the preferred method to carry out object detection. For our project, we adapt recent object detectors for the task of object detection. 
-
+</p>
+<p align='justify'>
 Object tracking is important in video analysis to monitor the path and the identity of objects. A variety of image processing algorithms and deep learning algorithms have been developed for this purpose, which we evaluate and adapt for our project. 
-
+<p align='justify'>
 Activity detection is a recent area of interest in the academic community with the emergence of deep learning algorithms which are able to process video data. Activity detection is the identification and localization in both time and space of a set of predefined activities occurring in a video. This is an extremely challenging task, especially to carry out in real-time. However, with recent advances in computational capacity and deep learning algorithms, activity detection performance has significantly improved. For our project, we define and detect a set of suspicious activities, such as illegal fishing, human trafficking, etc.
-
+</p>
+<p align='justify'>
 The major barrier to the development of deep learning solutions to a variety of problems, including ours, is the need to collect a sufficient volume of data to train the deep learning algorithms. Specifically, for our problem, a thermal maritime activity detection dataset is required for the training and evaluation of our methods. We attempt to collect some such usable data for this purpose for our project. 
-
+</p>
+<p align='justify'>
 Finally, we developed a user-friendly interface for easy use of our application. As an automated surveillance system is primarily used by the security personnel on board the naval monitoring vessels, simplicity, and usability were of utmost importance in the development of our user interface. 
 </p>
 
