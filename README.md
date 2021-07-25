@@ -4,7 +4,7 @@
 > Kalana Abeywardena, Sakuna Jayasundara, Sachira Karunasena, Shechem Sumanthiran
 
 ## Introduction
-<p align="justify">
+<p align='justify'>
 Widespread, constant monitoring during both day and night by the naval security personnel is required to ensure that activities such as the transport of banned substances, unlawful fishing, and human trafficking are prevented. This is a human labor-intensive and monotonous task. Due to the difficult conditions at sea and the repetitive nature of the task, human error could also lead to significant lapses in security.
 Therefore, the automation of this task is desirable. Through this project, we seek to automate the task of object detection, tracking, and suspicious activity detection. 
 To detect objects in the maritime environment during the day and the night, we capture a live feed using a thermal camera. 
