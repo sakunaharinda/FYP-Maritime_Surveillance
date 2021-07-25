@@ -4,7 +4,7 @@
 > Kalana Abeywardena, Sakuna Jayasundara, Sachira Karunasena, Shechem Sumanthiran
 
 ## Introduction
-
+<p align="justify">
 Widespread, constant monitoring during both day and night by the naval security personnel is required to ensure that activities such as the transport of banned substances, unlawful fishing, and human trafficking are prevented. This is a human labor-intensive and monotonous task. Due to the difficult conditions at sea and the repetitive nature of the task, human error could also lead to significant lapses in security.
 Therefore, the automation of this task is desirable. Through this project, we seek to automate the task of object detection, tracking, and suspicious activity detection. 
 To detect objects in the maritime environment during the day and the night, we capture a live feed using a thermal camera. 
@@ -23,6 +23,7 @@ Activity detection is a recent area of interest in the academic community with t
 The major barrier to the development of deep learning solutions to a variety of problems, including ours, is the need to collect a sufficient volume of data to train the deep learning algorithms. Specifically, for our problem, a thermal maritime activity detection dataset is required for the training and evaluation of our methods. We attempt to collect some such usable data for this purpose for our project. 
 
 Finally, we developed a user-friendly interface for easy use of our application. As an automated surveillance system is primarily used by the security personnel on board the naval monitoring vessels, simplicity, and usability were of utmost importance in the development of our user interface. 
+</p>
 
 ## Project Setup
 
