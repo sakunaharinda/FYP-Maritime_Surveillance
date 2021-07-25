@@ -4,13 +4,9 @@
 > Kalana Abeywardena, Sakuna Jayasundara, Sachira Karunasena, Shechem Sumanthiran
 
 ## Introduction
+
 <p align='justify'>
-Widespread, constant monitoring during both day and night by the naval security personnel is required to ensure that activities such as the transport of banned substances, unlawful fishing, and human trafficking are prevented. This is a human labor-intensive and monotonous task. Due to the difficult conditions at sea and the repetitive nature of the task, human error could also lead to significant lapses in security.
-Therefore, the automation of this task is desirable. Through this project, we seek to automate the task of object detection, tracking, and suspicious activity detection. 
-To detect objects in the maritime environment during the day and the night, we capture a live feed using a thermal camera. 
-The images are fed in real-time to an object detection algorithm to detect and localize the objects of interest such as ships, boats, unidentified floating objects, humans, etc. 
-We then track the detected objects over time and identify if suspicious activities are occurring based on the detected and tracked objects. 
-We log and display all detected objects and actions on the user interface developed for this project. 
+Widespread, constant monitoring during both day and night by the naval security personnel is required to ensure that activities such as the transport of banned substances, unlawful fishing, and human trafficking are prevented. This is a human labor-intensive and monotonous task. Due to the difficult conditions at sea and the repetitive nature of the task, human error could also lead to significant lapses in security. Therefore, the automation of this task is desirable. Through this project, we seek to automate the task of object detection, tracking, and suspicious activity detection. To detect objects in the maritime environment during the day and the night, we capture a live feed using a thermal camera. The images are fed in real-time to an object detection algorithm to detect and localize the objects of interest such as ships, boats, unidentified floating objects, humans, etc. We then track the detected objects over time and identify if suspicious activities are occurring based on the detected and tracked objects. We log and display all detected objects and actions on the user interface developed for this project. 
 
 Thermal imaging is regularly used by naval vessels to monitor and detect objects both in the day and the night. Moving vessels and humans both give off a thermal signature that is easily detectable, especially at night. Thermal imaging is also used in a variety of other applications such as autonomous vehicles, and night-vision in combat situations. As being able to detect objects at night, when most illegal activities take place is of utmost importance, we choose to use thermal imaging to monitor the environment. 
 
